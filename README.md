@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/jirapat-lakma-7980471b2/%22%3E
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br /><br />
+
+
 
 <!--
 **BigPongsakorn02/BigPongsakorn02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
