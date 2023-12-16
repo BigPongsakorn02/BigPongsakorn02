@@ -1,4 +1,4 @@
-### Hi there, I'm Pongsakorn👋!
+# Hi there, I'm Pongsakorn👋!
 My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, specializing in 3D modeling and UX/UI design. I really enjoy learning languages and frameworks like React and React Netive. Explore my GitHub profile and dive into my projects!
 
 - 👨‍💻 All of my projects are available at [.](.)
@@ -14,7 +14,7 @@ My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, s
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pongsakorn jansanit" height="30" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools: </h3>
+## Languages and Tools
 <p align="left"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
