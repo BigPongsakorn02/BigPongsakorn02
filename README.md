@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pongsakorn Jansanit</h1>
-<h3 align="center">"Hello! My name is BigZ - I'm a computer engineering student at KMUTT, specializing in Frontend development and UX/UI design. Explore my GitHub profile and dive into my projects!"</h3>
+### Hi there 👋!
+I'm BigZ from Thailand and I'm a computer engineering student at KMUTT, specializing in 3D modeling and UX/UI design. I really enjoy learning languages and frameworks like React and React Netive. Explore my GitHub profile and dive into my projects!
 
 - 👨‍💻 All of my projects are available at [.](.)
 
@@ -16,9 +16,7 @@
 
 <h3 align="left">Languages and Tools: </h3>
 <p gap=5 align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
