@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pongsakorn Jansanit</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">"Hello! My name is BigZ - I'm a computer engineering student at KMUTT, specializing in Frontend development and UX/UI design. Explore my GitHub profile and dive into my projects!"</h3>
 
 - 👨‍💻 All of my projects are available at [.](.)
 
