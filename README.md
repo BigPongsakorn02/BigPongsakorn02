@@ -7,7 +7,7 @@ My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, s
 
 - 📄 Know about my experiences [.](.)
 
-## <h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pongsakorn jansanit" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pongsakorn jansanit" height="30" width="40" />
