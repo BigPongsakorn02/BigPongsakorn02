@@ -9,9 +9,9 @@ My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, s
 
 ## Connect with me
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pongsakorn jansanit" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pongsakorn jansanit" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pongsakorn jansanit" height="30" width="40" />
+<a href="https://www.linkedin.com/in/pongsakorn-jansanit/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pongsakorn jansanit" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pongsakorn.jansanit.9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pongsakorn jansanit" height="30" width="40" /></a>
+<a href="https://www.behance.net/pongsakjansani"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pongsakorn jansanit" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
