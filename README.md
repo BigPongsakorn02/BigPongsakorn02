@@ -41,3 +41,9 @@ My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, s
     <img alt="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
     <img alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>  
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BigPongsakorn02/BigPongsakorn02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BigPongsakorn02/BigPongsakorn02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BigPongsakorn02/BigPongsakorn02/output/github-contribution-grid-snake.svg">
+</picture>
