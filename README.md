@@ -5,6 +5,9 @@ My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, s
 - 👨‍💻 My Portfolio <a href="https://bigzee.vercel.app/">Portfolio
 </a>
 
+- 📝 My Resume <a href="Pongsakorn Jansanit Resume.pdf"> Resume 
+</a>
+
 - 📫 How to reach me **pongsakornjansanit1@gmail.com**
 
 ## Connect with me
