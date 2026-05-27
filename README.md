@@ -2,7 +2,10 @@
 My name is BigZ from Thailand and I'm a computer engineering student at KMUTT, specializing in 3D modeling and UX/UI design. 
 <p>I really enjoy learning languages and frameworks like React. Explore my GitHub profile and dive into my projects!</p>
 
-- 👨‍💻 My Portfolio (PDF file)<a href="https://github.com//BigPongsakorn02/BigPongsakorn02/raw/main/UXUI%20Portfolio_compressed.pdf" download="UXUI_Portfolio_compressed.pdf"> ⏬ Download
+- 👨‍💻 My Portfolio <a href="https://bigzee.vercel.app/">Portfolio
+</a>
+
+- 📝 My Resume <a href="https://BigPongsakorn02.github.io/BigPongsakorn02/BigZ_Resume_2025.pdf"> Resume 
 </a>
 
 - 📫 How to reach me **pongsakornjansanit1@gmail.com**
